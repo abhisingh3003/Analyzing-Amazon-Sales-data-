@@ -11,4 +11,18 @@ https://github.com/abhisingh3003/Analyzing-Amazon-Sales-data-/blob/main/Data%20S
 after Downloading this file you can see all data.
 # Architecure/Workflow
 ![image](https://user-images.githubusercontent.com/66269537/148683521-c948b9fb-5347-4843-8bff-24d8aa86f36f.png)
+
+# Technology 👩‍💻
+Business Intelligence
+# Domain
+Sales
+# Tools 🛠
+Microsoft Excel  & Tableau.
+# Conclusion 💡
+by the help of this data we can make dashboard on tableau which can help me to analyze data in easily way and from this dashboard and worksheet we get many important ionformations.
+# Linkedin Post
+https://www.linkedin.com/posts/abhishek-singh-491879119_tableaupublic-project-internship-ugcPost-6883430852936781824-8bYg
+# Youtube video link
+https://drive.google.com/file/d/1P7GWR1dXzdn3oUPXmNi1RX32yYFQsoYb/view
+
  
